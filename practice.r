@@ -5,5 +5,7 @@ i -> 70
 r <- readline("Enter Name :")
 if (r>2){
   print("good")
+}else{
+  print("Bad")
 }
 
