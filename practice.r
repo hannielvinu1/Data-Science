@@ -3,4 +3,7 @@ e -> 9
 p -> 5
 i -> 70
 r <- readline("Enter Name :")
-print(r)
+if (r>2){
+  print("good")
+}
+
