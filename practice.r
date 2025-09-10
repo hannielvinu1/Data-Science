@@ -6,6 +6,6 @@ r <- readline("Enter Name :")
 if (r>2){
   print("good")
 }else{
-  print("Bad")
+  print("Bad");
 }
 
